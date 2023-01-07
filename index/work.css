@@ -1,0 +1,121 @@
+.work{
+  text-align: right;
+  padding: 150px;
+  
+
+}
+.work2{
+    
+  
+  
+
+}
+.button{
+    margin: 20px;
+    width: 120px;
+    height: 50px;
+    left: 1100px;
+    top: 578px;
+    color: rgb(31, 50, 221);
+     background-color: rgb(227, 227, 235);
+    
+    
+
+
+}
+.header{
+
+background-image: url(../images/banner/banner3.png);
+background-repeat: no-repeat;
+
+}
+.Life{
+    text-align: right;
+    padding: 150px;
+    margin: 10px;
+
+    
+    
+
+
+}
+.King{
+    size: 16px;
+    text-align:right;
+    padding: 120px;
+
+}
+.Dive{
+
+background-image: url(../images/person.png);
+width: 100%;
+background-repeat: no-repeat;
+}
+.text{
+
+list-style-type: circle;
+
+text-align: center;
+
+right: 70px;
+lighting-color: rgb(123, 18, 221);
+
+}
+.koke{
+ display: flex;
+     margin: 200px;
+    width: 500px;
+ 
+text-align: left;
+
+}
+.des{
+width: 50px;
+align-items: cenr;
+
+
+}
+.title{
+ text-align: center;
+
+
+}
+.skill-container{
+
+display: flex;
+
+
+
+}
+.skill{
+
+margin: 40px;
+text-align: center;
+margin-bottom: 20px;
+left: 243px;
+padding: 40px;
+}
+.images{
+
+background-image: url(../images/watch.png);
+
+
+}
+.like{
+text-align:center;
+padding: 30px;
+margin: 40px;
+
+}
+.bag{
+
+background-color: black;
+    
+}
+.contact .section-title{
+text-align: end;
+margin: 10px;
+padding-bottom: 70px;
+
+
+}
